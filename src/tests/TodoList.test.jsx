@@ -1,4 +1,4 @@
-import TodoList from "../pages/components/TodoList";
+import TodoList from "../pages/TodoList";
 import { fireEvent, render } from "@testing-library/react";
 
 describe("<TodoList />", () => {
